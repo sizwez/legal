@@ -1,0 +1,7 @@
+{
+  "name": "LegalLink SA",
+  "description": "A comprehensive guide to navigating South African government services, including UIF, SASSA, visa applications, and driver licenses, powered by AI to simplify bureaucratic friction.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
